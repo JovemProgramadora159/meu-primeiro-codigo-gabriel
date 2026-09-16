@@ -6,5 +6,6 @@ public class Program
 	{
 		Console.WriteLine("Olá, Mundo");
 		Console.WriteLine("Meu nome é Quadra");
+		Console.WriteLine("Este é o curso jovem programadora");
 	}
 }
